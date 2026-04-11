@@ -1,0 +1,8 @@
+1. Chọn 1 bộ dữ liệu thô trên kaggle (có đầy đủ các thuộc tính, norminal, ordinal, numerical, dạng chữ, dạng số,..)
+2. Xác định dữ liệu có chứa nhiễu hay không (sử dụng 1 trong các phương pháp trong slide số 3)
+3. Kiểm tra dữ liệu có chứa các thành phần: Missing, duplicate, inconsistent, 
+4. Áp dụng 1 trong các phương pháp tiền xử lí để xử lí dữ liệu ở câu số 3
+5. Áp dụng 1 trong các phương pháp khử nhiễu để xử lí dữ liệu ở câu số 4
+6. Lựa chọn 1 trong các phương pháp giảm chiều như Fure, PCA để giảm 20-30% số chiều của dữ liệu gốc
+7. Biểu diễn phân bố dữ liệu của các thuộc tính sau khi giảm chiều 
+8. Xác định các cặp thuộc tính có tương quan (theo CSquare, Spearman, Pearson, hiệp phương sai) và chọn ra 1 cặp thuộc tính các tương quan mạnh nhất và đưa ra lí giải về tương quan này
